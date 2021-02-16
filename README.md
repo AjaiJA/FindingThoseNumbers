@@ -1,4 +1,4 @@
-# FindingThoseNumbers
+### Finding Those Numbers
 The site used to find whether the given number by the user belongs to the particular number or not.
 
   The Number used to check are,<br>
