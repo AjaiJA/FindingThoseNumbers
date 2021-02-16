@@ -1,7 +1,7 @@
 # FindingThoseNumbers
 The site used to find whether the given number by the user belongs to the particular number or not.
 
-  The Number used to check are,
+  The Number used to check are,<br>
     1.Armstrong Number.
     2.Dudeney Number.
     3.Hardy-Ramanujam Number.
